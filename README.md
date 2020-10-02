@@ -6,7 +6,7 @@ _This Repository is **Open** for Everyone. Those, who wants to contributes in th
 
 :pushpin:	`Guidelines` :pushpin:	
 
-:small_blue_diamond: **Use this for your commit message**
+:small_blue_diamond: **Use this Tags for your commit message**
 
 Tag | Tag Description
 ------------ | -------------
@@ -22,7 +22,7 @@ Tag | Tag Description
 
 :small_blue_diamond: Kindly take help of [this](https://odoo-commit.firebaseapp.com/) to write your commit message.
 
-:small_blue_diamond: I _**Strictly**_ recommand that your commit message should follow this Guidelines and should be in the formate of the _**Example**_ which I gave you above.
+:small_blue_diamond: I _**Highly**_ recommand that your commit message should follow this Guidelines and should be in the formate of the _**Example**_ which I gave you above.
 
 :small_blue_diamond: You can Contribute in this repo in any language you are confortable with for Example:-  _Python, C, C++, Java, JavaScript etc._
 
