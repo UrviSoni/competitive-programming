@@ -35,5 +35,6 @@ Tag | Tag Description
 <hr />
 
 * [HackerEarth](https://github.com/UrviSoni/competitive-programming/tree/master/HackerEarth)
+* [HackerRank](https://github.com/UrviSoni/competitive-programming/tree/master/HackerRank)
 * [LeetCode](https://github.com/UrviSoni/competitive-programming/tree/master/Leet-Code)
 * [Other](https://github.com/UrviSoni/competitive-programming/tree/master/Other)
